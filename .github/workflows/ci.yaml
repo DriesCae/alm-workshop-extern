@@ -3,7 +3,7 @@ name: Golang Docker Build
 on: push
 
 env:
-  CONTAINER_REPOSITORY: quay.io/DriesCae # PUT YOUR OWN USERNAME HERE
+  CONTAINER_REPOSITORY: quay.io/driescornelissen # PUT YOUR OWN USERNAME HERE
   CONTAINER_IMAGE: workshopdries
   GOLANG_VERSION: 1.23
 
